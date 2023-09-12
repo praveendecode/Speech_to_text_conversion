@@ -17,5 +17,5 @@
          
          Please note that this script is intended for local use, as it relies on microphone input.
 
-# For Queries Connect Through LinkedIn [LinkedIn](https://www.linkedin.com/in/praveen-n-2b4004223/) 
+# For Queries Connect Through  [LinkedIn](https://www.linkedin.com/in/praveen-n-2b4004223/) 
    
